@@ -10,9 +10,9 @@ Para simular o uso do HttpClient, precisamos de uma API REST fake, para isso pod
 
 <img src="https://github.com/teonett/Angular-Rest-Api-Fake-V1.1/blob/master/img/List.png">
 
-<img src="https://github.com/teonett/Angular-Rest-Api-Fake-V1.1/blob/master/img/details.png">
+<img src="https://github.com/teonett/Angular-Rest-Api-Fake-V1.1/blob/master/img/Details.png">
 
-<img src="https://github.com/teonett/Angular-Rest-Api-Fake-V1.1/blob/master/img/add.png">
+<img src="https://github.com/teonett/Angular-Rest-Api-Fake-V1.1/blob/master/img/Add.png">
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.8.
 
